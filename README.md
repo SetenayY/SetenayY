@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SetenayY
 - 🌱 I’m currently learning how to code
-- 🎓 I'm a fresman at Bilkent University
+- 🎓 I'm a fresman at Bilkent University in Computer Science
 
 
 <!---
